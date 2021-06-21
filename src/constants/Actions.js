@@ -1,0 +1,9 @@
+/*
+ *	Redux cctions types
+ */
+export default {
+  GET_MOVIES: "GET_MOVIES",
+  TOGGLE_FAVORITE: "TOGGLE_FAVORITE",
+  TOGGLE_WATCHED: "TOGGLE_WATCHED",
+  REMOVE_MOVIE: "REMOVE_MOVIE",
+};
